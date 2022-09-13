@@ -1,0 +1,42 @@
+.colum2{
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+.firstrowcolum1{
+    background-color: red;
+}
+.firstrowcolum2{
+    background-color: blue;
+}
+.colum3{
+    width: 33.33%;
+    height: 300px;
+    float: left;
+}
+.secondrowcolum1{
+    background-color: aqua;
+}
+.secondrowcolum2{
+    background-color: blueviolet;
+}
+.secondrowcolum3{
+    background-color: darkcyan;
+}
+.colum4{
+    width: 25%;
+    height: 300px;
+    float: left;
+}
+.thirdrowcolum1{
+    background-color: brown;
+}
+.thirdrowcolum2{
+    background-color: yellow;
+}
+.thirdrowcolum3{
+    background-color: green;
+}
+.thirdrowcolum4{
+    background-color: deeppink;
+}
